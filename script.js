@@ -9,7 +9,6 @@ const existentialQuotes = [
     "Meaning is a construct.",
     "The equation is irrelevant.",
     "42. But what was the question?",
-    "ERROR: Cannot compute significance.",
     "Is 'number' even real?",
     "Look at the stars instead.",
     "Calculation leads to suffering.",
